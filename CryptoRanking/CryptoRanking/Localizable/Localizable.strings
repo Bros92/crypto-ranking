@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  CryptoRanking
+
+  Created by Vincenzo Broscritto on 16/10/22.
+  
+*/
+
+"CRYPTO_RANKING" = "Crypto Ranking";
+"DESCRIPTION" = "Descrizione";
+"USEFUL_LINKS" = "Link Utili";
+"HOMEPAGE" = "Homepage";
